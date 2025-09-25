@@ -2,4 +2,3 @@
 Lais de Paula Carneiro - 10418061
 
 
-#instruções de execução 
