@@ -43,7 +43,8 @@ chaves correspondentes→ Letras minúsculas (a, b, c...).
  -Objetivo: sair pelo E com a maior pontuação possível.
 
 ---
-##🏆 Placar
+
+## 🏆 Placar
 
 
   -O sistema é contabilizado em arquivo CSV.
