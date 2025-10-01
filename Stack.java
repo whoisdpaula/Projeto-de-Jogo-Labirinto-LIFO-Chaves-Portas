@@ -4,9 +4,9 @@ public class Stack<T> {
     private final T[] data;
     private int top;
 
-    @SuppressWarnings("unchecked")// olhar esse nome que esta em ingles
-    public Stack(int capacity) { // olhar esse nome que esta em ingles
-        data = (T[]) new Object[capacity];// olhar esse nome que esta em ingles
+    @SuppressWarnings("unchecked")
+    public Stack(int capacity) { 
+        data = (T[]) new Object[capacity];
         top = -1;
     }
     public boolean isEmpty() {
@@ -17,22 +17,22 @@ public class Stack<T> {
     }
     public void push(T item) {
         if(isFull()) {
-            throw new IllegalStateException("Stack is full");// olhar esse nome que esta em ingles
+            throw new IllegalStateException("Esta cheio");
         }
         data[++top] = item;
     }
     public T pop() {
         if(isEmpty()) {
-            throw new IllegalStateException("Stack is empty");// olhar esse nome que esta em ingles
+            throw new IllegalStateException("Esta vazio");
         }
         T val = data[top];
         data[top] = null;
         top --;
-        return val;// olhar esse nome que esta em ingles
+        return val;
     }
-    public T peek() {// olhar esse nome que esta em ingles
+    public T peek() {
         if(isEmpty()) {
-            throw new IllegalStateException("Stack is empty");// olhar esse nome que esta em ingles
+            throw new IllegalStateException("Esta vazio");
         }
         return data[top];
     }
@@ -44,4 +44,5 @@ public class Stack<T> {
     }
 
 }
+
 
