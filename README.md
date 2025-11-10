@@ -54,9 +54,7 @@ chaves correspondentes→ Letras minúsculas (a, b, c...).
 
 ---
 
-
-https://github.com/user-attachments/assets/47b1fae5-7806-4c6c-ab06-b6659cd9cf3d
-
+https://github.com/user-attachments/assets/d2f70ed8-8722-4c7b-a290-62dfc397e7d3
 
 ---
 
