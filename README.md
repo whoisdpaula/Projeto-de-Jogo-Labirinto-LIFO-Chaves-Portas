@@ -55,6 +55,12 @@ chaves correspondentes→ Letras minúsculas (a, b, c...).
 ---
 
 
+https://github.com/user-attachments/assets/47b1fae5-7806-4c6c-ab06-b6659cd9cf3d
+
+
+---
+
+
 ## 👨‍💻 Autora
 
 - Lais de Paula Carneiro - 10418061
