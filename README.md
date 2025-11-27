@@ -59,6 +59,6 @@ https://github.com/user-attachments/assets/d2f70ed8-8722-4c7b-a290-62dfc397e7d3
 ---
 
 
-## 👨‍💻 Autora
+# 👩‍💻 Autora
 
 - Lais de Paula Carneiro - 10418061
